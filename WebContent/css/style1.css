@@ -1,0 +1,27 @@
+
+.la {
+	font-size: 22px;
+	color: blue;
+	
+}
+.tb {
+	width: 300px;
+	font-size: 20px;
+	height:2.5rem;
+	border-radius: 5px;
+}
+.bt {
+	font-size: 20px;
+	border-radius: 5px;
+	color: blue;
+	background-color: cyan;
+	padding: 5px 10px 5px 10px;
+}
+.ta {
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+	border-spacing: 25px;
+	border: 3px solid red;
+}
